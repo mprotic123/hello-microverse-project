@@ -1,18 +1,18 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse 
 
-> One paragraph statement about the project.
+> Setting up a "Hello Microverse" project.
 
-![screenshot](./app_screenshot.png)
+![screenshot](https://i.ibb.co/NYkrkJm/Screenshot-2021-07-06-103115.png)
 
-Additional description about the project and its features.
+Project that includes website with green header text.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML and CSS
+- .NET Framework
+- Visual Studio Code 
 
 ## Live Demo
 
@@ -21,39 +21,22 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**Open GitBash on your computer.**
+**Using $git clone command clone this repo.**
+**Open the repo you have cloned on your computer and open index.html file.**
 
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
 
 ## Authors
 
-👤 **Author1**
+👤 **Milan Protić**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@mprotic123](https://github.com/mprotic123)
+- Twitter: [@proticm98](https://twitter.com/proticm98)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/milan-proti%C4%87-040364213/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
